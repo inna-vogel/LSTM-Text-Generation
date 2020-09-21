@@ -3230,7 +3230,7 @@ sequences = np.array(sequences)
 
 
 ```python
-sequences[0]
+sequences[0] 
 ```
 
 
